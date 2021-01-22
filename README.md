@@ -1,0 +1,2 @@
+# Checking Event Hubs - Python
+I was thinking on how much similar is **Event Hub** to **Kafka** , and I noticed that you can switch an consumer or producer to use kafka or eventhub and keep the same code. Of course kafka is a mature and reliable solution than Event hub(Paas solution) but Event Hub is easier to use than kafka :roll_eyes:. Well I leave this code for consumer and producer, Good luck :v:.
